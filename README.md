@@ -1,2 +1,3 @@
-# pyramid_solitaire
-A program that is capable of supporting a game of pyramid solitaire in a text view
+# Pyramid Solitaire
+
+A Java program that is a game of pyramid solitaire in text view using an MVC model. 
